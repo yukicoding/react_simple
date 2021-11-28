@@ -4,3 +4,6 @@
 
 # production
 /dist
+
+/gitignore
+/package-lock.json
